@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: azure;
+    background-color: aqua;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -27,7 +27,7 @@ div{
 
 @media screen and ( min-width: 1024px) {
    header{
-    background-color: aquamarine;
+    background-color: aqua;
    }
 }
 
