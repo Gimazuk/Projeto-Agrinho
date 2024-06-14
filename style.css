@@ -31,8 +31,8 @@ div{
    }
 }
 
-@media screen and ( min-width: 1700px) {
+@media screen and ( min-width: 1728px) {
     header{
-     background-color: rgb(53, 75, 67);
+     background-color: aqua
     }
  }
